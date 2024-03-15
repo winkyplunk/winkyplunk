@@ -1,1 +1,0 @@
-Window_ChoiceList.prototype.isOkTriggered = function() {return false;};
